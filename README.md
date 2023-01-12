@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JeniksSL
+- 👋 Hi, I’m @JeniksSL YAUHENI SLABKO
 - 👀 I’m interested in Chemical Engeneering, but Java too.
 - 🌱 I’m currently retraining on prigrammer-analyst. With more attention to programming.
 - 💞️ I'm looking for Java mentor
